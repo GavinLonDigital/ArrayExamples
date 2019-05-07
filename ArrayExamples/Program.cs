@@ -139,7 +139,7 @@ namespace ArrayExamples
 
             studentAverageGradesPerYear[0] = new int[3] { 50, 70, 54 };
             studentAverageGradesPerYear[1] = new int[2] { 54, 65};
-            studentAverageGradesPerYear[2] = new int[2] { 50, 70,};
+            studentAverageGradesPerYear[2] = new int[2] { 50, 70};
             studentAverageGradesPerYear[3] = new int[1] { 73 };
 
             WriteJaggedArrayToScreen(studentAverageGradesPerYear);
